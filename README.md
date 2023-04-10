@@ -1,8 +1,8 @@
-# 101 Ways pairing tests
+# Marindrew pairing tests
 
 *Kudos to the team at the Guardian who came up with these pairing tests*
 
-This repo contains the pairing test exercises that are used in the 101 Ways recruitment process.
+This repo contains the pairing test exercises that are used in the Marindrew recruitment process.
 
 ## License
 
