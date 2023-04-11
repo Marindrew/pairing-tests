@@ -15,6 +15,6 @@ Requirement Cards:
 
 5. A cell with more than 3 live neighbours dies of overcrowding
 
-6. An empty cell with exactly 3 live neighbours "comes to life"
+6. A dead cell with exactly 3 live neighbours "comes to life"
 
 7. The board should wrap
