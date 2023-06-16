@@ -9,11 +9,11 @@ Requirement Cards:
 
 2. A cell can be "killed"
 
-3. A cell with fewer than two live neighbours dies of under-population
+3. A live cell with fewer than two live neighbours dies of under-population
 
-4. A cell with 2 or 3 live neighbours lives on to the next generation
+4. A live cell with 2 or 3 live neighbours lives on to the next generation
 
-5. A cell with more than 3 live neighbours dies of overcrowding
+5. A live cell with more than 3 live neighbours dies of overcrowding
 
 6. A dead cell with exactly 3 live neighbours "comes to life"
 
